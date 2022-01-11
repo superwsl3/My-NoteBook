@@ -1,7 +1,7 @@
 # My Note
 
 ## STM32F103RCT6
-```2022/01/11``` [CH340讀取轉動馬達Encoder數值](https://github.com/SilasYoome/blog/issues/2)  
+```2022/01/11``` [CH340讀取轉動馬達Encoder數值](https://github.com/superwsl3/STMF103RCT6-Encoder_Read.git)  
 
 
 ## Arduino相關
