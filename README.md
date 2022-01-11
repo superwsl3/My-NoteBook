@@ -1,6 +1,6 @@
-# My Note
+# My NoteBook
 
-## STM32F103RCT6
+## STM32F103RCT6相關
 ```2022/01/11``` [CH340讀取轉動馬達Encoder數值](https://github.com/superwsl3/STMF103RCT6-Encoder_Read.git)  
 
 
