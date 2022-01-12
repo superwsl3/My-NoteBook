@@ -1,7 +1,9 @@
 # My NoteBook
 
 ## STM32F103RCT6相關
-```2022/01/11``` [CH340讀取轉動馬達Encoder數值](https://github.com/superwsl3/STMF103RCT6-Encoder_Read.git) 
+```2022/01/11``` [使用TIM3計時器使LED每秒亮滅](https://github.com/superwsl3/STMF103RCT6-TIM3.git)
+```2022/01/12``` [CH340讀取轉動馬達Encoder數值](https://github.com/superwsl3/STMF103RCT6-Encoder_Read.git)
+
 
 ## Arduino相關
 ```2021/09/10``` [MEGA2560透過RS485與輪榖馬達驅動器溝通驅動輪榖馬達](https://github.com/superwsl3/Arduino_RS485_Motor_Driver_ZLAC8015D_LIB.git)  
