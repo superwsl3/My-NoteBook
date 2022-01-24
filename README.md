@@ -4,7 +4,7 @@
 ```2022/01/22``` [Linux心得文件](https://github.com/superwsl3/Linux-Study.git)<br>
 
 ## ROS-基礎學習
-```2022/01/24``` [ROS心得文件](https://github.com/superwsl3/Linux-Study.git)<br>
+```2022/01/24``` [ROS心得文件](https://github.com/superwsl3/ROS-Study.git)<br>
 
 ## STM32-F103RCT6學習
 ```2022/01/10``` [按鈕開關控制LED閃爍](https://github.com/superwsl3/STMF103RCT6-Key_Control_Led.git)<br>
