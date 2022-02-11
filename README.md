@@ -16,6 +16,7 @@
 ```2022/01/17``` [OpenCRP與樹莓派串口通信](https://github.com/superwsl3/STMF103RCT6-Raspi_COM.git)<br>
 ```2022/01/18``` [電池輸入電壓檢測(ADC應用)](https://github.com/superwsl3/STMF103RCT6-Battery_Detect.git)<br>
 ```2022/01/19``` [TIM2產生PWM於A15腳位控制伺服馬達](https://github.com/superwsl3/STMF103RCT6-Servo_motor_control.git)<br>
+```2022/01/19``` [STM32發送一筆字串至樹梅派終端機顯示](https://github.com/superwsl3/STMF103RCT6-Boost_aiso_com_send.git)<br>
 
 ## Arduino-專案
 ```2021/09/10``` [MEGA2560透過RS485與輪榖馬達驅動器溝通驅動輪榖馬達](https://github.com/superwsl3/Arduino_RS485_Motor_Driver_ZLAC8015D_LIB.git)<br>
