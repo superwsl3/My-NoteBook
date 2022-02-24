@@ -27,6 +27,6 @@
 ## 心得應用
 ```2022/01/17``` [陣列在函式間傳遞之應用(透過指標)](https://github.com/superwsl3/Note_Arrays_function_arguments.git)<br>
 ```2022/01/20``` [一個2位元資料分解和結合2個1位元資料](https://github.com/superwsl3/Note-comdata_transfer.git)<br>
-```2022/01/20``` [static使用和template建構說明](https://github.com/superwsl3/Note-static_using_and_template_establish.git)<br>
+```2022/02/24``` [static使用和template建構說明](https://github.com/superwsl3/Note-static_using_and_template_establish.git)<br>
 
 
