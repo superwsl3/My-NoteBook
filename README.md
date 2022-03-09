@@ -3,6 +3,10 @@
 ## Linux-基礎學習
 ```2022/01/22``` [Linux心得文件](https://github.com/superwsl3/Linux-Study.git)<br>
 
+## C#-基礎學習
+```2022/03/09``` [C#心得文件](https://github.com/superwsl3/C_Shap-Study.git)<br>
+
+
 ## ROS-基礎學習
 ```2022/01/24``` [ROS心得文件](https://github.com/superwsl3/ROS-Study.git)<br>
 
